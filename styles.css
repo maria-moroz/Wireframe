@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+}
+
+.externalLinks {
+  background-color: black;
+  color: white;
+}
+
+.externalLinks p {
+  margin: 0;
+}
+
+.externalLinks a {
+  color: red;
+}
+
+.pageTitle {
+  background-color: rgb(2, 2, 128);
+}
+
+.pageTitle h1 {
+  margin: 0;
+  text-align: center;
+  color: rgb(202, 202, 242);
+}
+
+.linksContainer,
+.links a {
+  border: black 1px solid;
+}
+
+.links {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.links h3 {
+  margin: 0;
+}
+
+.links a {
+  margin-bottom: 5px;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.centerContentRow {
+  display: flex;
+}
+
+.content {
+  padding: 10px;
+}
+
+.comments {
+  padding: 10px;
+  border: black 1px solid;
+}
+
+.ads {
+  width: 250px;
+}
